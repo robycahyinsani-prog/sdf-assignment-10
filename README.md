@@ -1,7 +1,5 @@
 # SDF Assignment 10 — Unit Testing & Mutation Testing
 
-# SDF Assignment 10 — Unit Testing & Mutation Testing
-
 **Kelompok 8**
 
 | Nama | NIM | Peran |
